@@ -4,16 +4,18 @@
 
 This use case explains how to use TrustZone on ARM Cortex-M33 for IP protection and ATECC508 for authentication.  
 
+Please refer the brochure for more information. 
+
 ## Requirements
 
 * SAML11 Xplained Pro
 * ATECC508 with adapter board
 
-![Use case setup](https://bitbucket.org/hainguyenprivaterepo/trustzone_atecc_usecase/raw/41799cedc73b426626c4b96c1c6c4739736b1f5a/Doc/Image/system_setup.jpg) 
+![Use case setup](https://github.com/HaiQNguyen/SAML11_SE_TZ/blob/master/Doc/Image/system_setup.jpg) 
 
 ## Description
 
-![Authentication and TP protection](https://bitbucket.org/hainguyenprivaterepo/trustzone_atecc_usecase/raw/41799cedc73b426626c4b96c1c6c4739736b1f5a/Doc/Image/TrustZone_and_Authentication.png)
+![Authentication and TP protection](https://github.com/HaiQNguyen/SAML11_SE_TZ/blob/master/Doc/Image/TrustZone_and_Authentication.png)
 
 ### Terminology
 
@@ -35,7 +37,7 @@ This use case explains how to use TrustZone on ARM Cortex-M33 for IP protection 
   * Stop bit: 1
 * Compile and run the code, below is the result from console:
 
-![Log from terminal](https://bitbucket.org/hainguyenprivaterepo/trustzone_atecc_usecase/raw/41799cedc73b426626c4b96c1c6c4739736b1f5a/Doc/Image/log.PNG)
+![Log from terminal](https://github.com/HaiQNguyen/SAML11_SE_TZ/blob/master/Doc/Image/log.PNG)
 
 ## Release note
 
