@@ -1,0 +1,4 @@
+[0717/060438:ERROR:ipc_channel_win.cc(512)] pipe error: 232
+[0717/060438:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0717/061449:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0717/061454:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
