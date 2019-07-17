@@ -4,7 +4,7 @@
 
 This use case explains how to use TrustZone on ARM Cortex-M33 for IP protection and ATECC508 for authentication.  
 
-Please refer the brochure for more information. 
+Please refer the [brochure](https://github.com/HaiQNguyen/SAML11_SE_TZ/tree/feature/modify_doc/Doc/Brochure) for more information. 
 
 ## Requirements
 
